@@ -1,12 +1,10 @@
 import java.util.Random;
-
 /**
  * UC2: Toss to Decide First Player and Symbol
  * ---------------------------------------------
  * Goal   : Randomly decide who plays first and assign symbols (X or O).
  * Actor  : Game System
  * Flow   : Game starts → system performs toss → assigns symbols → decides first turn.
- *
  * Key Concepts:
  *   - Random Number Generation
  *   - Conditional Logic
