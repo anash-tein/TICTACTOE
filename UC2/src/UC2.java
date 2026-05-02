@@ -24,11 +24,9 @@ public class UC2 {
         tossAndAssignSymbols();
         displayTossResult();
     }
-
     /**
      * Uses random logic to decide the first player and assigns symbols
      * based on the toss outcome. This method initialises the game state.
-     *
      * Toss result 0 → Human goes first and gets 'X'
      * Toss result 1 → Computer goes first and gets 'X'
      */
